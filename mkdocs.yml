@@ -1,0 +1,45 @@
+copyright: Copyright © 2008-2022 the <a href="https://ts.sch.gr">Ομάδα Τεχνικής Στήριξης</a>
+dev_addr: 0.0.0.0:7101
+edit_uri: tree/main/docs
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.superfences
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify
+      title: Περιεχόμενα σελίδας
+repo_url: https://github.com/pe86/wiki
+site_name: Τεχνική Στήριξη ΣΕΠΕΗΥ
+site_url: https://ts.sch.gr/wiki
+strict: false
+theme:
+  language: el
+  locale: el
+  logo: stylesheets/ts-logo.png
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Αλλαγή σε σκούρο θέμα
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Αλλαγή σε ανοιχτό θέμα
+  titles_only: true
+nav:
+  - index.md
