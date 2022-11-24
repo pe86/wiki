@@ -1,25 +1,23 @@
-# Εγχειρίδιο Linux
+# Τεκμηρίωση για ΣΕΠΕΗΥ
 
-!!! tip ""
-    Το παρόν εγχειρίδιο αναφέρεται κυρίως σε σχολεία που χρησιμοποιούν Ubuntu
-    Linux. Είναι διαθέσιμο και σε [μορφή pdf](linux.pdf).
+Η υπηρεσία Τεχνικής Στήριξης του ΠΣΔ συντηρεί το παρόν wiki με στόχο την
+υποβοήθηση της συντήρησης των σχολικών εργαστηρίων Πληροφορικής και εφαρμογών
+Η/Υ που βασίζονται στα λειτουργικά συστήματα [Linux](linux/) και
+[Microsoft Windows](windows/).
 
-## Αρχική εγκατάσταση και διαχείριση
+## ![](images/ubuntu.svg#right-icon)Τεκμηρίωση για Linux
 
--   ![](images/ubuntu.png#right-icon)Για εγκατάσταση Ubuntu σε οποιονδήποτε
-    υπολογιστή, ακολουθήστε τις οδηγίες της ενότητας [Ubuntu](ubuntu/index.md).
--   Για προσθήκη λογισμικού, δείτε την [ομώνυμη
-    σελίδα](ubuntu/software.md).
--   ![](images/ltsp.png#right-icon)Για να μεταμορφώσετε σε LTSP server έναν
-    υπολογιστή με ήδη εγκατεστημένο Ubuntu, δείτε την ενότητα [ΣΕΠΕΗΥ με
-    LTSP](ltsp/index.md).
+- [Εγκατάσταση και χρήση Ubuntu Linux](linux/ubuntu/)
+- [Προσθήκη λογισμικού](linux/ubuntu/software/)
+- [Linux Terminal Server Project (LTSP)](linux/ltsp/)
+- [Εφαρμογή διαχείρισης τάξης Επόπτης](linux/epoptes/)
+- [Οδηγοί για Linux](linux/guides/)
 
-## Χρήση
+## ![](images/windows.svg#right-icon)Τεκμηρίωση για Windows
 
--   ![](images/epoptes.svg#right-icon)Η εφαρμογή [Επόπτης](epoptes/index.md)
-    επιτρέπει στους καθηγητές να ελέγχουν τους υπολογιστές του εργαστηρίου, να
-    κάνουν προβολή οθόνης κλπ.
--   Στην ενότητα [Οδηγοί](guides/index.md) μπορείτε να αναζητήσετε πληροφορίες
-    για διάφορα θέματα και εφαρμογές.
--   [Υποστήριξη](support/index.md) για τη λύση προσφέρεται μέσω ιστοχώρων
-    συζητήσεων και με απομακρυσμένη βοήθεια.
+- [Αυτόνομες εγκαταστάσεις Windows 10](windows/10/)
+- [Εγκατάσταση και χρήση Windows 2019 server](windows/2019/)
+- [Προσθήκη λογισμικού](windows/software/)
+- [Αρχιτεκτονική client-server](windows/client-server/)
+- [Αρχιτεκτονική Centralized Computing](windows/server-based/)
+- [Πλήρης οδηγός για Windows](windows/)
