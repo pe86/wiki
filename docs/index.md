@@ -18,6 +18,6 @@
 - [Αυτόνομες εγκαταστάσεις Windows Client](windows/client/)
 - [Εγκατάσταση και χρήση Windows Server](windows/server/)
 - [Προσθήκη λογισμικού](windows/software/)
-- [Αρχιτεκτονική client-server](windows/client-server/)
+- [Αρχιτεκτονική Client-Server Computing](windows/client-server/)
 - [Αρχιτεκτονική Centralized Computing](windows/server-based/)
 - [Πλήρης οδηγός για Windows](windows/)
