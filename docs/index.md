@@ -15,8 +15,8 @@
 
 ## ![](images/windows.svg#right-icon)Τεκμηρίωση για Windows
 
-- [Αυτόνομες εγκαταστάσεις Windows 10](windows/10/)
-- [Εγκατάσταση και χρήση Windows 2019 server](windows/2019/)
+- [Αυτόνομες εγκαταστάσεις Windows Client](windows/client/)
+- [Εγκατάσταση και χρήση Windows Server](windows/server/)
 - [Προσθήκη λογισμικού](windows/software/)
 - [Αρχιτεκτονική client-server](windows/client-server/)
 - [Αρχιτεκτονική Centralized Computing](windows/server-based/)
